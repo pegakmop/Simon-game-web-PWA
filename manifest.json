@@ -1,7 +1,7 @@
 {
     "name": "Simon Game",
     "short_name": "Simon Game",
-    "start_url": "/",
+    "start_url": "/Simon-game-web-PWA/",
     "background_color": "#FFDCB5",
     "theme_color": "#1E003D",
     "icons": [
